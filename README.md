@@ -1,4 +1,3 @@
-Ayurvedic Medicine Recommendation System:
 Developed an advanced and comprehensive system designed to recommend Ayurvedic medicines based on detailed analysis of symptoms and references from classical texts like Charaka Samhita and Sushruta Samhita. The system uses algorithms to match user-provided symptoms with treatments mentioned in these ancient texts, ensuring authentic and precise suggestions.
 
 Backend Development: Implemented the backend logic using Python and the Django framework, which provided a robust and scalable infrastructure to handle large volumes of user queries and database interactions. Key functionalities include symptom parsing, text-based pattern recognition, and medicine suggestion algorithms. The backend was optimized for performance to ensure quick response times and reliability.
